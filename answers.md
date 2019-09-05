@@ -52,6 +52,9 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 10. no they are different 
-11. 
+11. it was rejected
+12. Yes the online file matched the local file
+13. .  ..  .git  .gitignore  README.md
+
 
 
