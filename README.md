@@ -1,1 +1,3 @@
-cs 2400, Section 110
+Sarah Janoch
+sj301915@ohio.edu
+CS 2400, Section 110
